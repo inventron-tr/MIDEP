@@ -1,3 +1,5 @@
+# Akıllı ev otomasyonu –Su baskını alarmı
+
 Akıllıı ev otomasyonu temelde aydınlatma kontrolü, enerji tasarrufu, güvenlik gibi evin birçok ihtiyacının uzaktan cihazlarla ya da sistemin kendi kendisine gerçekleştirmesi olarak tanımlanabilir. Bu örnekte ev içerisinde bir su baskını meydana geldiğinde alarmın çalacak ve kullanıcıya e-mail üzerinden bildirim yapılacak bir sistem kuracağız.
 
 > **Sıvı seviye sensörü nedir?**
